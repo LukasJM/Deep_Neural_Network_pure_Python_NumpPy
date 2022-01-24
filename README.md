@@ -1,0 +1,2 @@
+# Deep_Neural_Network_pure_Python_NumpP
+In this notebook, we are going to build a deep neural network with python and numpy.  The file "dnn_utils.py" contains several functions that will be used here. Functions like forward prop and backprop, among many others. Please open this file to follow along.  - Build and train a deep L-layer(the number of hidden layers the user assigns) neural network, and apply it to supervised learning.
